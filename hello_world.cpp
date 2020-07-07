@@ -1,1 +1,10 @@
-cout<<"Hello World"<<endl;
+#include <iostream>
+#include <stdio.h>
+
+using namespace std;
+
+int main()
+{
+ cout<<"Hello World"<<endl;
+ return 0;
+}
